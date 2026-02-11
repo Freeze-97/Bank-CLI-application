@@ -1,8 +1,8 @@
-# 💰 Bank CLI Application in C++
+# Bank CLI Application in C++
 
 This is a simple command-line based banking application written in C++. It allows users to create and manage different types of bank accounts, such as savings accounts, long-term savings accounts, and transaction accounts. The project uses object-oriented programming principles, including inheritance and polymorphism.
 
-## 📁 Project Structure
+## Project Structure
 
 - `main.cpp` — Entry point  
 - `testProgram.h` / `testProgram.cpp` — Program to test all classes and provide menu  
@@ -13,16 +13,16 @@ This is a simple command-line based banking application written in C++. It allow
 - `savingsAccount.h` / `savingsAccount.cpp` — Savings account (inherits Konto)  
 - `longSavingsAccount.h` / `longSavingsAccount.cpp` — Long-term savings account (inherits Konto)
 
-## 🔧 Features
+## Features
 
-- ✅ Create bank customers
-- ✅ Open different types of accounts
+- Create bank customers
+- Open different types of accounts
   - Transaction account
   - Savings account
   - Long-term savings account
-- ✅ Deposit and withdraw funds
-- ✅ Display account information
-- ✅ Test mode with predefined operations
+-  Deposit and withdraw funds
+- Display account information
+- Test mode with predefined operations
 
 ### Compile:
 
